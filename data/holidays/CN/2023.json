@@ -1,0 +1,160 @@
+{
+    "country": "CN",
+    "holidays": [
+        {
+            "date": "2023-01-02",
+            "status": "holiday",
+            "name": "元旦"
+        },
+        {
+            "date": "2023-01-21",
+            "status": "holiday",
+            "name": "除夕"
+        },
+        {
+            "date": "2023-01-22",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2023-01-23",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2023-01-24",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2023-01-25",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2023-01-26",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2023-01-27",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2023-01-28",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2023-01-29",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2023-04-05",
+            "status": "holiday",
+            "name": "清明节"
+        },
+        {
+            "date": "2023-04-23",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2023-04-29",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2023-04-30",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2023-05-01",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2023-05-02",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2023-05-03",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2023-05-06",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2023-06-22",
+            "status": "holiday",
+            "name": "端午节"
+        },
+        {
+            "date": "2023-06-23",
+            "status": "holiday",
+            "name": "端午节"
+        },
+        {
+            "date": "2023-06-24",
+            "status": "holiday",
+            "name": "端午节"
+        },
+        {
+            "date": "2023-06-25",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2023-09-29",
+            "status": "holiday",
+            "name": "中秋节"
+        },
+        {
+            "date": "2023-10-01",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2023-10-02",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2023-10-03",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2023-10-04",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2023-10-05",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2023-10-06",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2023-10-07",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2023-10-08",
+            "status": "makeup-workday",
+            "name": "班"
+        }
+    ]
+}

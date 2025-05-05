@@ -1,0 +1,60 @@
+{
+    "country": "US",
+    "holidays": [
+        {
+            "date": "2024-01-01",
+            "status": "holiday",
+            "name": "元旦"
+        },
+        {
+            "date": "2024-01-15",
+            "status": "holiday",
+            "name": "马丁·路德·金纪念日"
+        },
+        {
+            "date": "2024-02-19",
+            "status": "holiday",
+            "name": "总统日"
+        },
+        {
+            "date": "2024-05-27",
+            "status": "holiday",
+            "name": "阵亡将士纪念日"
+        },
+        {
+            "date": "2024-06-19",
+            "status": "holiday",
+            "name": "六月节"
+        },
+        {
+            "date": "2024-07-04",
+            "status": "holiday",
+            "name": "独立日"
+        },
+        {
+            "date": "2024-09-02",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2024-10-14",
+            "status": "holiday",
+            "name": "哥伦布日"
+        },
+        {
+            "date": "2024-11-11",
+            "status": "holiday",
+            "name": "退伍军人节"
+        },
+        {
+            "date": "2024-11-28",
+            "status": "holiday",
+            "name": "感恩节"
+        },
+        {
+            "date": "2024-12-25",
+            "status": "holiday",
+            "name": "圣诞节"
+        }
+    ]
+}

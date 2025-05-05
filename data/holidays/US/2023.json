@@ -1,0 +1,70 @@
+{
+    "country": "US",
+    "holidays": [
+        {
+            "date": "2023-01-01",
+            "status": "holiday",
+            "name": "元旦"
+        },
+        {
+            "date": "2023-01-02",
+            "status": "holiday",
+            "name": "元旦补假"
+        },
+        {
+            "date": "2023-01-16",
+            "status": "holiday",
+            "name": "马丁·路德·金纪念日"
+        },
+        {
+            "date": "2023-02-20",
+            "status": "holiday",
+            "name": "总统日"
+        },
+        {
+            "date": "2023-05-29",
+            "status": "holiday",
+            "name": "阵亡将士纪念日"
+        },
+        {
+            "date": "2023-06-19",
+            "status": "holiday",
+            "name": "六月节"
+        },
+        {
+            "date": "2023-07-04",
+            "status": "holiday",
+            "name": "独立日"
+        },
+        {
+            "date": "2023-09-04",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2023-10-09",
+            "status": "holiday",
+            "name": "哥伦布日"
+        },
+        {
+            "date": "2023-11-10",
+            "status": "holiday",
+            "name": "退伍军人节补假"
+        },
+        {
+            "date": "2023-11-11",
+            "status": "holiday",
+            "name": "退伍军人节"
+        },
+        {
+            "date": "2023-11-23",
+            "status": "holiday",
+            "name": "感恩节"
+        },
+        {
+            "date": "2023-12-25",
+            "status": "holiday",
+            "name": "圣诞节"
+        }
+    ]
+}

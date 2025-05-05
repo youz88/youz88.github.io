@@ -1,0 +1,185 @@
+{
+    "country": "CN",
+    "holidays": [
+        {
+            "date": "2022-01-01",
+            "status": "holiday",
+            "name": "元旦"
+        },
+        {
+            "date": "2022-01-29",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2022-01-30",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2022-01-31",
+            "status": "holiday",
+            "name": "除夕"
+        },
+        {
+            "date": "2022-02-01",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2022-02-02",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2022-02-03",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2022-02-04",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2022-02-05",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2022-02-06",
+            "status": "holiday",
+            "name": "春节"
+        },
+        {
+            "date": "2022-04-02",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2022-04-03",
+            "status": "holiday",
+            "name": "清明节"
+        },
+        {
+            "date": "2022-04-04",
+            "status": "holiday",
+            "name": "清明节"
+        },
+        {
+            "date": "2022-04-05",
+            "status": "holiday",
+            "name": "清明节"
+        },
+        {
+            "date": "2022-04-24",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2022-04-30",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2022-05-01",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2022-05-02",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2022-05-03",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2022-05-04",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2022-05-07",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2022-06-03",
+            "status": "holiday",
+            "name": "端午节"
+        },
+        {
+            "date": "2022-06-04",
+            "status": "holiday",
+            "name": "端午节"
+        },
+        {
+            "date": "2022-06-05",
+            "status": "holiday",
+            "name": "端午节"
+        },
+        {
+            "date": "2022-09-10",
+            "status": "holiday",
+            "name": "中秋节"
+        },
+        {
+            "date": "2022-09-11",
+            "status": "holiday",
+            "name": "中秋节"
+        },
+        {
+            "date": "2022-09-12",
+            "status": "holiday",
+            "name": "中秋节"
+        },
+        {
+            "date": "2022-10-01",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2022-10-02",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2022-10-03",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2022-10-04",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2022-10-05",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2022-10-06",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2022-10-07",
+            "status": "holiday",
+            "name": "国庆节"
+        },
+        {
+            "date": "2022-10-08",
+            "status": "makeup-workday",
+            "name": "班"
+        },
+        {
+            "date": "2022-10-09",
+            "status": "makeup-workday",
+            "name": "班"
+        }
+    ]
+}

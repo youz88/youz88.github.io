@@ -1,0 +1,60 @@
+{
+    "country": "US",
+    "holidays": [
+        {
+            "date": "2020-01-01",
+            "status": "holiday",
+            "name": "元旦"
+        },
+        {
+            "date": "2020-01-20",
+            "status": "holiday",
+            "name": "马丁·路德·金纪念日"
+        },
+        {
+            "date": "2020-02-17",
+            "status": "holiday",
+            "name": "总统日"
+        },
+        {
+            "date": "2020-05-25",
+            "status": "holiday",
+            "name": "阵亡将士纪念日"
+        },
+        {
+            "date": "2020-06-19",
+            "status": "holiday",
+            "name": "六月节"
+        },
+        {
+            "date": "2020-07-04",
+            "status": "holiday",
+            "name": "独立日"
+        },
+        {
+            "date": "2020-09-07",
+            "status": "holiday",
+            "name": "劳动节"
+        },
+        {
+            "date": "2020-10-12",
+            "status": "holiday",
+            "name": "哥伦布日"
+        },
+        {
+            "date": "2020-11-11",
+            "status": "holiday",
+            "name": "退伍军人节"
+        },
+        {
+            "date": "2020-11-26",
+            "status": "holiday",
+            "name": "感恩节"
+        },
+        {
+            "date": "2020-12-25",
+            "status": "holiday",
+            "name": "圣诞节"
+        }
+    ]
+}

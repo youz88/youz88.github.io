@@ -1,0 +1,100 @@
+{
+    "country": "JP",
+    "holidays": [
+        {
+            "date": "2025-01-01",
+            "status": "holiday",
+            "name": "元旦"
+        },
+        {
+            "date": "2025-01-13",
+            "status": "holiday",
+            "name": "成人节"
+        },
+        {
+            "date": "2025-02-11",
+            "status": "holiday",
+            "name": "建国纪念日"
+        },
+        {
+            "date": "2025-02-23",
+            "status": "holiday",
+            "name": "天皇诞辰"
+        },
+        {
+            "date": "2025-02-24",
+            "status": "holiday",
+            "name": "天皇诞辰补假"
+        },
+        {
+            "date": "2025-03-20",
+            "status": "holiday",
+            "name": "春分日"
+        },
+        {
+            "date": "2025-04-29",
+            "status": "holiday",
+            "name": "昭和之日"
+        },
+        {
+            "date": "2025-05-03",
+            "status": "holiday",
+            "name": "宪法纪念日"
+        },
+        {
+            "date": "2025-05-04",
+            "status": "holiday",
+            "name": "绿之日"
+        },
+        {
+            "date": "2025-05-05",
+            "status": "holiday",
+            "name": "儿童节"
+        },
+        {
+            "date": "2025-05-06",
+            "status": "holiday",
+            "name": "绿之日补假"
+        },
+        {
+            "date": "2025-07-21",
+            "status": "holiday",
+            "name": "海之日"
+        },
+        {
+            "date": "2025-08-11",
+            "status": "holiday",
+            "name": "山之日"
+        },
+        {
+            "date": "2025-09-15",
+            "status": "holiday",
+            "name": "敬老日"
+        },
+        {
+            "date": "2025-09-23",
+            "status": "holiday",
+            "name": "秋分日"
+        },
+        {
+            "date": "2025-10-13",
+            "status": "holiday",
+            "name": "体育日"
+        },
+        {
+            "date": "2025-11-03",
+            "status": "holiday",
+            "name": "文化节"
+        },
+        {
+            "date": "2025-11-23",
+            "status": "holiday",
+            "name": "勤劳感谢日"
+        },
+        {
+            "date": "2025-11-24",
+            "status": "holiday",
+            "name": "勤劳感谢日补假"
+        }
+    ]
+}

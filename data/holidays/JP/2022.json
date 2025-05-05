@@ -1,0 +1,85 @@
+{
+    "country": "JP",
+    "holidays": [
+        {
+            "date": "2022-01-01",
+            "status": "holiday",
+            "name": "元旦"
+        },
+        {
+            "date": "2022-01-10",
+            "status": "holiday",
+            "name": "成人节"
+        },
+        {
+            "date": "2022-02-11",
+            "status": "holiday",
+            "name": "建国纪念日"
+        },
+        {
+            "date": "2022-02-23",
+            "status": "holiday",
+            "name": "天皇诞辰"
+        },
+        {
+            "date": "2022-03-21",
+            "status": "holiday",
+            "name": "春分日"
+        },
+        {
+            "date": "2022-04-29",
+            "status": "holiday",
+            "name": "昭和之日"
+        },
+        {
+            "date": "2022-05-03",
+            "status": "holiday",
+            "name": "宪法纪念日"
+        },
+        {
+            "date": "2022-05-04",
+            "status": "holiday",
+            "name": "绿之日"
+        },
+        {
+            "date": "2022-05-05",
+            "status": "holiday",
+            "name": "儿童节"
+        },
+        {
+            "date": "2022-07-18",
+            "status": "holiday",
+            "name": "海之日"
+        },
+        {
+            "date": "2022-08-11",
+            "status": "holiday",
+            "name": "山之日"
+        },
+        {
+            "date": "2022-09-19",
+            "status": "holiday",
+            "name": "敬老日"
+        },
+        {
+            "date": "2022-09-23",
+            "status": "holiday",
+            "name": "秋分日"
+        },
+        {
+            "date": "2022-10-10",
+            "status": "holiday",
+            "name": "体育之日"
+        },
+        {
+            "date": "2022-11-03",
+            "status": "holiday",
+            "name": "文化节"
+        },
+        {
+            "date": "2022-11-23",
+            "status": "holiday",
+            "name": "勤劳感谢日"
+        }
+    ]
+}
